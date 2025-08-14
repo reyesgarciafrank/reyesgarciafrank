@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://streak-stats.demolab.com?user=reyesgarciafrank&theme=darcula&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=reyesgarciafrank&theme=vue&hide_border=true)
